@@ -1,13 +1,13 @@
-### Dashboard Report
-
-
 # TPI-Energy-Consumption
 **Analysis of TPI regional power consumption data**
 
 Energy consumption data can tell powerful stories about how regions grow, industries operate, and demand shifts over time. I analyzed TobiPower Innovations (TPI) hourly energy usage dataset, which spans multiple companies across the Western Interconnection grid.
 
 ---
+### Report Dashboard 
+[CLICK HERE](https://app.powerbi.com/view?r=eyJrIjoiZjU2OTEzMDktMDQwYi00M2IyLWI1ODAtOWU1Njk2ZDZhMjJlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
+---
 ### **🔧 Data Preprocessing**
 
 The project began with preparing the raw CSV files for analysis:
