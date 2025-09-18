@@ -5,7 +5,7 @@ Energy consumption data can tell powerful stories about how regions grow, indust
 
 ---
 ### Report Dashboard 
-[CLICK HERE](https://app.powerbi.com/view?r=eyJrIjoiZjU2OTEzMDktMDQwYi00M2IyLWI1ODAtOWU1Njk2ZDZhMjJlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+**[CLICK HERE](https://app.powerbi.com/view?r=eyJrIjoiZjU2OTEzMDktMDQwYi00M2IyLWI1ODAtOWU1Njk2ZDZhMjJlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)**
 
 ---
 ### **🔧 Data Preprocessing**
